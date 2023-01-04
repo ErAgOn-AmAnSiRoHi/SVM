@@ -13,4 +13,4 @@ SVM is of two types:
 
 Except for Hard Margin SVM, I have considered [Checker Board Dataset](DataSets/Readme.md) under consideration for training my model and then taken random values to check for the classification.
 
-[Linear SVM](Linear SVM/readme.md)
+[Linear SVM](LinearSVM/readme.md)
