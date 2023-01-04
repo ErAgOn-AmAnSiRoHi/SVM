@@ -9,5 +9,4 @@ SVM selects the extreme points/vectors that aid in the creation of the hyperplan
 
 SVM is of two types:
 > Linear SVM         { used for linearly separable data }
-
-> Non-Linear SVM     { used for non-linearly separated data }
+  Non-Linear SVM     { used for non-linearly separated data }
