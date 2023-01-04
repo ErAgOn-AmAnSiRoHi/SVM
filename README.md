@@ -9,6 +9,6 @@ SVM selects the extreme points/vectors that aid in the creation of the hyperplan
 
 SVM is of two types:
 > [Linear SVM](/Linear SVM/readme.md)  
-> [Non-Linear SVM](Non-Linear SVM/)    { used for non-linearly separated data }
+> [Non-Linear SVM](Non-Linear SVM/readme.md)    { used for non-linearly separated data }
 
 Except for Hard Margin SVM, I have considered [Checker Board Dataset](DataSets/Readme.md) under consideration for training my model and then taken random values to check for the classification.
