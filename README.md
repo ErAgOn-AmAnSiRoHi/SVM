@@ -8,5 +8,5 @@ This best decision boundary is referred to as a hyperplane.
 SVM selects the extreme points/vectors that aid in the creation of the hyperplane. Support vectors are the names given to these extreme cases.
 
 SVM is of two types:
-> Linear SVM         { used for linearly separable data }
-  Non-Linear SVM     { used for non-linearly separated data }
+> Linear SVM         { used for linearly separable data }   
+>    Non-Linear SVM     { used for non-linearly separated data }
