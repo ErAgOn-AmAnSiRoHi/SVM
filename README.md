@@ -11,4 +11,4 @@ SVM is of two types:
 > Linear SVM         { used for linearly separable data }   
 >    Non-Linear SVM     { used for non-linearly separated data }
 
-Except for Hard Margin SVM, I have considered Checker Board Dataset under consideration for training my model and then taken random values to check for the classification.
+Except for Hard Margin SVM, I have considered [Checker Board Dataset](DataSets/Readme.md) under consideration for training my model and then taken random values to check for the classification.
