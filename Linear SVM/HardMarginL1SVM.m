@@ -1,3 +1,5 @@
+clc; clear all; close all;
+
 d_val = [-1;-1;-1;1;1;1];
 d = diag(d_val)
 A = [1 2;2 1;2 2;3 3;3 4;4 3]
